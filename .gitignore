@@ -1,0 +1,17 @@
+# Dependências e build
+node_modules/
+.next/
+out/
+
+# Configurações locais e credenciais
+.env
+.env.local
+.env.*.local
+
+# Estado dos emuladores
+.firebase/
+.firebase-test-data/
+
+# Logs
+*.log
+npm-debug.log*
